@@ -24,11 +24,16 @@
                 <p class="news-excerpt">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                     Voluptas exercitationem est dolores.</p>
             </article>
-
+            
             <article class="news">
                 <h3 class="new-title">Las novedades del dia</h3>
                 <p class="news-excerpt">Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
             </article>
+       
+        <article class="news">Primera prueba de version en GitHub</h3>     
+                <p class="news-excerpt">Solomente un texto para verificar la prueba de versiones de GitHub.</p>
+            </article>
+            
         </section>
     </body>
 </html> 
